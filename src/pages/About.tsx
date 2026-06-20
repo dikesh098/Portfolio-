@@ -65,7 +65,7 @@ export default function About() {
             {/* Quick contact chips */}
             <div style={{ display: 'flex', flexDirection: 'column', gap: 2, marginTop: 2 }}>
               {[
-                { icon: '✉', label: 'gautamdikesh098@gmail.com' },
+                { icon: '✉', label: 'dikeshgautam09@gmail.com' },
                 { icon: '🔗', label: 'github.com/dikesh098' },
                 { icon: '💼', label: 'dikeshgautam.vercel.app' },
               ].map((c, i) => (
