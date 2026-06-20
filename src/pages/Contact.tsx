@@ -5,7 +5,7 @@ import { supabase } from '../lib/supabase';
 import type { ContactMessage } from '../types';
 
 const SOCIAL_LINKS = [
-  { icon: '✉', label: 'Email', value: 'gautamdikesh098@gmail.com', href: 'mailto:gautamdikesh098@gmail.com' },
+  { icon: '✉', label: 'Email', value: 'dikeshgautam09@gmail.com', href: 'mailto:dikeshgautam09@gmail.com' },
   { icon: '🐙', label: 'GitHub', value: 'github.com/dikesh098', href: 'https://github.com/dikesh098' },
   { icon: '🔗', label: 'Portfolio', value: 'dikeshgautam.vercel.app', href: 'https://dikeshgautam.vercel.app' },
   { icon: '📍', label: 'Location', value: 'Hyderabad, Telangana, India', href: '#' },
@@ -187,7 +187,7 @@ export default function Contact() {
                 </button>
 
                 <div style={{ fontSize: 10, color: 'var(--muted)', marginTop: 14, textAlign: 'center', letterSpacing: 1 }}>
-                  Or email directly: gautamdikesh098@gmail.com
+                  Or email directly: dikeshgautam09@gmail.com
                 </div>
               </>
             )}
